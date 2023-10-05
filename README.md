@@ -1,5 +1,5 @@
 <h1 align="center">This is Zulliu</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+<h3 align="center">A passionate full-stack developer who loves voxel and pixel art</h3>
 
 - 🔭 I’m currently working on [pomopup](https://github.com/zulliu/pomopup)
   
